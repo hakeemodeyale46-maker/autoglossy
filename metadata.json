@@ -1,0 +1,8 @@
+
+{
+  "name": "Auto Glossy - Premium Car Detailing & AI Visualizer",
+  "description": "A high-end car detailing website featuring advanced AI tools for car analysis, image editing, and cinematic video generation powered by Gemini and Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
